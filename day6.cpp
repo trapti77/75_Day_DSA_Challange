@@ -28,6 +28,7 @@ using namespace std;
 
 
 //Binary search Approach
+
 int findMin(vector<int> &nums){
     int n = nums.size();
     int i = 0;
